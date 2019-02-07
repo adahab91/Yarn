@@ -1,0 +1,12 @@
+{
+  "name": "wf2_ma2_q9",
+  "version": "1.0.0",
+  "description": "To learn how to work with Yarn",
+  "main": "index.js",
+  "repository": "https://github.com/adahab91/wf2_ma2_q9",
+  "author": "Ada Elise Håberg",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
